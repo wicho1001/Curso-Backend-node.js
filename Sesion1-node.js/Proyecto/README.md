@@ -12,11 +12,10 @@ Realizaremos un servidor en node y renderizamos nuestro index.html de "Bedu trav
 
 - Deberás crear un servidor que mande un response
 
-![Node](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/thumb/nodejslogo.png)
-Dentro de la documentacion 
-[Documentación oficial](https://nodejs.org/dist/latest-v10.x/docs/api/)
+![Node](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/thumb/nodejslogo.png)   
+  [Documentación oficial](https://nodejs.org/dist/latest-v10.x/docs/api/)   
 
-Dentro de la documentación oficial tendrás todas las herramientas suficientes para poder desarrollar dicho servidor.
+  Dentro de la documentación oficial tendrás todas las herramientas suficientes para poder desarrollar dicho servidor.   
 
 ## Iteración 2: Crea tu archivo index.html
 

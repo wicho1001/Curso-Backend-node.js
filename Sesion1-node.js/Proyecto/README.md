@@ -1,6 +1,6 @@
 # Ejercicio: Renderizar index.html "Bedu travels"
 
-Realizaremos un servidor en node y renderizamos nuestro index.html de "Bedu travels"
+Realizaremos un servidor en node y renderizamos nuestro index.html del proyecto "Bedu travels"
 
 ## Conocimientos Previos
 - NodeJS
@@ -39,7 +39,7 @@ Realizaremos un servidor en node y renderizamos nuestro index.html de "Bedu trav
 
 ## Iteración 5: Crea un Router
 
-- Tendrás que hacer una función que dependiendo de la url invoque a nuestro routerUser
+- Tendrás que hacer una función que dependiendo de la url invoque a nuestro routerUser.
 
 # Refuerzos:
 
